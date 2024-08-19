@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+<<<<<<< HEAD
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -24,4 +25,48 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+=======
+html {
+  --line-color: #e5e7eb;
+}
+
+html.dark {
+  --line-color: rgb(255, 255, 255, 0.2);
+}
+
+.borderBlack {
+  @apply border border-black/10;
+}
+
+/* Create Custom Scrollbar */
+/* Firefox */
+* {
+  scrollbar-color: #373f4b #222831;
+}
+
+/* Chrome, Edge and Safari */
+*::-webkit-scrollbar-track {
+  background-color: #ffffff00;
+}
+
+*::-webkit-scrollbar-track:hover {
+  background-color: #ffffff00;
+}
+
+*::-webkit-scrollbar-track:active {
+  background-color: #ffffff00;
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background-color: #ffffff4f;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background-color: #ffffffbb;
+}
+
+*::-webkit-scrollbar-thumb:active {
+  background-color: #ffffff;
+>>>>>>> 8ac9df4 (Finish Next.js and TypeScript portfolio project)
 }
