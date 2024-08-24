@@ -30,7 +30,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/Astro.png"
+              src="/Astro.jpg"
               alt="Astro portrait"
               width="192"
               height="192"
@@ -102,7 +102,7 @@ export default function Intro() {
           <HiDownload className="opacity-60 group-hover:translate-y-1 transition" />
         </a>
         <a
-          href="https://www.linkedin.com/in/shepherdastro/"
+          href="https://www.linkedin.com/in/shepherd-astro-flexer/"
           target="_blank"
           className="dark:bg-white/10 dark:text-white/60 dark:hover:text-white bg-white text-gray-700 p-4 items-center gap-2 rounded-full flex focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition borderBlack"
         >
