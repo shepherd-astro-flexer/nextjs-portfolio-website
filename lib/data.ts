@@ -69,7 +69,7 @@ export const projectsData = [
   {
     title: "Gilas Gym Magement System",
     description:
-      "A React-based web applcation that I developed for our gym business, leveraging knowledge I gained from previous projects.",
+      "A React-based web application that I developed for our gym business, leveraging knowledge I gained from previous projects.",
     tags: ["React", "MongoDB", "Node.js", "Tailwind CSS", "DaisyUI"],
     imageUrl: gilasGym,
     hostUrl: "https://gilasgym.onrender.com/",
