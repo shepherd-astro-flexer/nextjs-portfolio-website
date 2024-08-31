@@ -28,7 +28,7 @@ export default function About() {
         <span className="font-medium">React, Next.js, TypeScript</span>, and I'm
         always looking to learn new technologies. I'm currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a software
-        developer, wanting to specialize in front-end.
+        developer, with a focus on specializing in full-stack development.
       </p>
       <p>
         <span className="italic">Apart from my professional life</span>, I have
