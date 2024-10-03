@@ -74,22 +74,22 @@ export const projectsData = [
     imageUrl: gilasGym,
     hostUrl: "https://gilasgym.onrender.com/",
   },
-  {
-    title: "Jack Yoyi Pares Point of Sales System - Capstone Project",
-    description:
-      "A Point of Sales System that we developed for our beneficiary, Jack Yoyi Pares.",
-    tags: ["PHP", "VB.net", "Javascript", "HTML", "CSS"],
-    imageUrl: jackYoyiPares,
-    hostUrl: "https://github.com/shepherd-astro-flexer/jack_yoyi_pares_pos",
-  },
-  {
-    title: "Starlex Gym Management System - SAD Project",
-    description:
-      "A Gym Management System that we developed for our beneficiary, Starlex Fitness Gym.",
-    tags: ["PHP", "VB.net", "HTML", "Javascript", "CSS"],
-    imageUrl: starlexFitness,
-    hostUrl: "https://github.com/shepherd-astro-flexer/starlex_fitness_gms",
-  },
+  // {
+  //   title: "Jack Yoyi Pares Point of Sales System - Capstone Project",
+  //   description:
+  //     "A Point of Sales System that we developed for our beneficiary, Jack Yoyi Pares.",
+  //   tags: ["PHP", "VB.net", "Javascript", "HTML", "CSS"],
+  //   imageUrl: jackYoyiPares,
+  //   hostUrl: "https://github.com/shepherd-astro-flexer/jack_yoyi_pares_pos",
+  // },
+  // {
+  //   title: "Starlex Gym Management System - SAD Project",
+  //   description:
+  //     "A Gym Management System that we developed for our beneficiary, Starlex Fitness Gym.",
+  //   tags: ["PHP", "VB.net", "HTML", "Javascript", "CSS"],
+  //   imageUrl: starlexFitness,
+  //   hostUrl: "https://github.com/shepherd-astro-flexer/starlex_fitness_gms",
+  // },
 ] as const;
 
 export const skillsData = [
