@@ -37,6 +37,14 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Co-founder Gilas Gym",
+    location: "Subic",
+    description:
+      "Co-founded and successfully launched a gym community with the aim of promoting a healthy lifestyle. Oversee daily operations, including member management.",
+    icon: React.createElement(MdOutlineWorkOutline),
+    date: "2022",
+  },
+  {
     title: "Graduated from AMA Computer College - Olongapo Campus",
     location: "Olongapo City",
     description:
@@ -101,11 +109,9 @@ export const skillsData = [
   "PostgreSql",
   "MySql",
   "PHP",
-  "VB.NET",
   "Node.js",
   "JavaScript",
   "HTML5",
   "CSS",
-  "Git",
-  "Framer Motion",
+  "Github",
 ] as const;
