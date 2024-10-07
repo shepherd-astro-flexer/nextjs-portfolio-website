@@ -42,7 +42,7 @@ export const experiencesData = [
     description:
       "Co-founded and successfully launched a gym community with the aim of promoting a healthy lifestyle. Oversee daily operations, including member management.",
     icon: React.createElement(MdOutlineWorkOutline),
-    date: "2022",
+    date: "2022-Present",
   },
   {
     title: "Graduated from AMA Computer College - Olongapo Campus",
@@ -106,12 +106,12 @@ export const skillsData = [
   "TypeScript",
   "Tailwind",
   "MongoDB",
-  "PostgreSql",
+  "Supabase",
   "MySql",
   "PHP",
   "Node.js",
   "JavaScript",
   "HTML5",
-  "CSS",
+  "CSS3",
   "Github",
 ] as const;
